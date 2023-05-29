@@ -1,0 +1,17 @@
+{
+  "name": "cy.alura",
+  "version": "1.0.0",
+  "description": "Curso de Cypress - Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Caio Castanho",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
