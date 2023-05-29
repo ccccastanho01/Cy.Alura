@@ -2,13 +2,13 @@
 
 -Testes Realizados na Aplicação Web https://alura-fotos.herokuapp.com/
 
--Teste de Login
+TESTE DE LOGIN
 
 1)Faz login com sucesso;
 
 2)Login inválido
 
--Teste de Cadastro de Usuários
+TESTES CADASTRO DE USUÁRIOS
 
 3)Verifica Mensagem de Validação;
 
@@ -20,6 +20,6 @@
 
 7)Registra novo usuário.
 
--Teste de API
+TESTE DE API
 
-8)Buscar fotos do Usuário
+8)Busca fotos do Usuário.
